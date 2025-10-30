@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Santiago Lopez Lopez [22212260]; l22212260@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 

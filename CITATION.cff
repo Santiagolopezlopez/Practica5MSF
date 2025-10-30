@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB,SPIDER'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: SANTIAGO
+    family-names: 'LOPEZ LOPEZ '
+    email: l22212260@tectijuana.edu.mx
+    affiliation: TECNM-ITT
+repository-code: 'https://github.com/Santiagolopezlopez/Practica5MSF'
+keywords:
+  - CIRCUITO RC
+  - SISTEMA MUSCOESQUELETICO
+  - CONTROLADOR PI
+  - MODELO MATEMATICO
+  - SIMULACIONES NUMERICAS
+  - FUNCION DE TRANSFERENCIA
+  - CONTROL
+  - CASO
+  - TRATAMIENTO
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-30'
